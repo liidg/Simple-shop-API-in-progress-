@@ -1,0 +1,27 @@
+{
+  "name": "rest-shop",
+  "version": "1.0.0",
+  "description": "Node.js Shop RESTful API Project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/liidg/Simple-shop-API-.git"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "Luis Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liidg/Simple-shop-API-/issues"
+  },
+  "homepage": "https://github.com/liidg/Simple-shop-API-#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
